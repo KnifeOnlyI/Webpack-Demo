@@ -10,17 +10,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "csv-loader": "^3.0.3",
-    "json5": "^2.2.0",
-    "toml": "^3.0.0",
+    "html-webpack-plugin": "^5.5.0",
     "webpack": "^5.60.0",
-    "webpack-cli": "^4.9.1",
-    "xml-loader": "^1.2.1",
-    "yamljs": "^0.3.0"
+    "webpack-cli": "^4.9.1"
   },
   "dependencies": {
-    "css-loader": "^6.5.0",
-    "lodash": "^4.17.21",
-    "style-loader": "^3.3.1"
+    "lodash": "^4.17.21"
   }
 }
